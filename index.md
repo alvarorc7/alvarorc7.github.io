@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Estudio del ruido ambiental
 
-You can use the [editor on GitHub](https://github.com/alvarorc7/alvarorc7.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Introducción
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non dui dui. Donec ac fringilla magna. Donec eget facilisis erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum vestibulum sagittis magna posuere suscipit. Aenean ac justo vel ex accumsan volutpat. Donec porttitor porta ultrices. Nunc ut libero dolor. Etiam faucibus mattis dui, vitae viverra massa maximus sed. Cras iaculis molestie tortor, ac vehicula nisl facilisis scelerisque.
 
-### Markdown
+Vestibulum sit amet dignissim nulla. Pellentesque interdum, est vitae suscipit feugiat, mi risus bibendum eros, nec commodo quam diam ac arcu. In magna est, tincidunt a nulla sit amet, feugiat molestie nisl. Cras augue velit, consequat vel erat nec, viverra volutpat augue. Donec rhoncus, justo feugiat mattis tincidunt, mauris elit porttitor turpis, vitae vulputate odio urna ut orci. Ut consequat vehicula lacus, eu volutpat dui bibendum at. Maecenas aliquam est eget erat fringilla porta. Etiam lacinia, mi id sodales ullamcorper, nunc lorem mattis sapien, quis dapibus dui tortor quis tellus. Duis sed odio cursus, sagittis dolor sed, molestie ipsum. Mauris sit amet odio tempor, efficitur sapien in, suscipit odio. Nam imperdiet neque eget elementum sodales. Phasellus eros justo, interdum vitae tellus non, pretium gravida ligula. Donec porta dolor sit amet dolor porta semper. Aliquam vitae orci nunc. Nunc condimentum lectus in arcu blandit bibendum. Donec facilisis feugiat risus eget convallis.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nunc lobortis eu metus eu ultrices. Fusce vel neque tristique, efficitur purus posuere, vulputate lectus. Quisque pretium ornare mauris eu dapibus. Cras eu aliquam turpis. Curabitur sed auctor dui, ut molestie lorem. Nunc semper sem turpis, ut sodales tortor consectetur eu. Vestibulum pretium, nisi a aliquam egestas, dui tellus imperdiet neque, vitae dapibus neque turpis eget nibh. Vestibulum ornare mi in augue suscipit vestibulum. Nam volutpat odio id sagittis ornare. Quisque sed turpis turpis. Duis sollicitudin maximus lectus, a porta tellus finibus posuere. Mauris id tincidunt arcu, non rutrum sapien.
 
-```markdown
-Syntax highlighted code block
+Integer porta accumsan tellus, ut faucibus justo cursus eget. Proin dapibus in dolor vel congue. Sed iaculis nunc eget enim feugiat, id tincidunt mi porta. Donec iaculis ante eu magna egestas, sed rutrum quam mollis. Integer pretium enim at erat congue, vitae rutrum urna suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec vel sodales diam. Praesent blandit volutpat diam, quis tempor nisi tempor nec. In sed malesuada sem. Vestibulum euismod convallis urna sed consequat.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alvarorc7/alvarorc7.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Suspendisse egestas enim mi, ac malesuada quam facilisis eget. Etiam maximus diam at turpis cursus condimentum. Nunc eu urna vel nisl accumsan varius. Etiam efficitur est sed eros tempor cursus in non dui. Phasellus laoreet metus sed posuere blandit. Morbi semper eget nibh eget ornare. Morbi molestie orci vitae tellus faucibus, nec accumsan ligula facilisis. In hac habitasse platea dictumst. Morbi eu mollis lectus. Nullam fringilla sem vitae massa mattis, vitae lobortis odio ultricies.
