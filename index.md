@@ -14,17 +14,17 @@ En este caso particular, se ha decidido realizar el estudio debido a las caracte
 ### Normativa comunitaria:
 
 La directiva 2002/49 CE del Parlamento Europeo y del consejo sobre evaluación y gestión del ruido ambiental (DOCE 18/07/2002), está destinado a evitar, prevenir o reducir los efectos de la exposición al ruido, se aplican las siguientes medidas:
--Se determina el ruido y se hace un mapa de ruido según los métodos de evaluación más comunes.
--Se informa a la población sobre el ruido ambiental y los efectos que tiene.
--Se tienen planes de acción para prevenir y reducir el ruido ambiental y sus efectos.
--Se fijan medidas comunitarias de reducción de ruidos emitidos.
--Se recopilan los mapas de ruido y los planes de acción.
+- Se determina el ruido y se hace un mapa de ruido según los métodos de evaluación más comunes.
+- Se informa a la población sobre el ruido ambiental y los efectos que tiene.
+- Se tienen planes de acción para prevenir y reducir el ruido ambiental y sus efectos.
+- Se fijan medidas comunitarias de reducción de ruidos emitidos.
+- Se recopilan los mapas de ruido y los planes de acción.
 
 ### Recomendación de la comisión de 6 de agosto de 2003:
 
 Esta recomendación es relativa a las orientaciones sobre los métodos de cálculo para el ruido industrial, se recomiendan los siguientes:
--Ruido de tráfico rodado: se utiliza para calcular los niveles sonoros para el ruido de tráfico rodado, se usa un método estándar en la medición, usando un trípode a 45 grados.
--Ruido industrial: los métodos de medición para la obtención de datos de entrega están en: ISO 8297:1994, EN ISO 3744:1995, y EN ISO 3746:1995.
+- Ruido de tráfico rodado: se utiliza para calcular los niveles sonoros para el ruido de tráfico rodado, se usa un método estándar en la medición, usando un trípode a 45 grados.
+- Ruido industrial: los métodos de medición para la obtención de datos de entrega están en: ISO 8297:1994, EN ISO 3744:1995, y EN ISO 3746:1995.
 
 ### Normativa estatal: Ley 37/2003.
 
@@ -39,9 +39,10 @@ Este decreto se encarga del ruido en lo referente a la evaluación y gestión am
 
 La ley 37/2003 de 17 de noviembre, trata de la zonificación acústica, objetivos de calidad y emisiones acústicas, se define la molestia sobre la población y su repercusión en el medio ambiente.
 Existen tres periodos temporales de evaluación diarios:
--1 Periodo día (d): son 12 horas, de 7:00 a 19:00 horas.
--2 Periodo tarde (e): son 4 horas, de 19:00 a 23:00 horas.
--3 Periodo noche (n): són 8 horas, de 23:00 a 7:00 horas.
+1. Periodo día (d): son 12 horas, de 7:00 a 19:00 horas.
+2. Periodo tarde (e): son 4 horas, de 19:00 a 23:00 horas.
+3. Periodo noche (n): són 8 horas, de 23:00 a 7:00 horas.
+
 ![indices ruido bien](https://user-images.githubusercontent.com/91885951/135846554-5199b472-f17b-45cc-89b3-d0e652bec658.PNG)
 
 
