@@ -16,6 +16,9 @@ En la realización de las mediciones hay que tomar ciertas precauciones:
 Antes y después de cada medición realizar una verificación acústica de la cadena de medición, que garantice que la desviación no es superiora 0,3 dB
 El sonómetro debe llevar una pantalla de viento 
 
+![Sin pantalla](https://user-images.githubusercontent.com/91887316/135848305-89ad42b0-18dc-4256-943d-7b953459d41f.jpg) ![Con pantalla](https://user-images.githubusercontent.com/91887316/135848325-45ab4e11-b5ea-4cfa-b048-9beba966dcec.jpg)
+
+
 
 ## Apartado legislativo
 
