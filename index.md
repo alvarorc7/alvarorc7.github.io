@@ -42,6 +42,6 @@ Existen tres periodos temporales de evaluación diarios:
 -1 Periodo día (d): son 12 horas, de 7:00 a 19:00 horas.
 -2 Periodo tarde (e): son 4 horas, de 19:00 a 23:00 horas.
 -3 Periodo noche (n): són 8 horas, de 23:00 a 7:00 horas.
-![indices de ruido](https://user-images.githubusercontent.com/91885951/135845892-170092f6-9ea2-40a5-bea7-02eb0c863870.PNG)
+![indices ruido bien](https://user-images.githubusercontent.com/91885951/135846554-5199b472-f17b-45cc-89b3-d0e652bec658.PNG)
 
 
