@@ -10,6 +10,12 @@ En este caso particular, se ha decidido realizar el estudio debido a las caracte
 
 ## Marco teórico -- Metodológico
 
+La metodología sigue una normativa UNE - EN ISO 1996-1:2005, que se encarga de la descripción, medición y evaluación del ruido ambiental.
+En el estudio del ruido generado se estudia el rango de frecuencias entre 8-8000 Hz.
+En la realización de las mediciones hay que tomar ciertas precauciones:
+Antes y después de cada medición realizar una verificación acústica de la cadena de medición, que garantice que la desviación no es superiora 0,3 dB
+El sonómetro debe llevar una pantalla de viento 
+
 
 ## Apartado legislativo
 
