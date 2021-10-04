@@ -1,12 +1,19 @@
 # Estudio de la contaminación ambiental
 
 ## Introducción
+En este trabajo hablaremos y expondremos datos sobre la contaminación acústica, para empezar, la contaminación acústica se entiende como la presencia de ruido y vibraciones que impliquen molestia o daño para las personas.
 
-Según lo que dicta el Boletín Oficial del Estado, la contaminación acustica es la existencia de ruidos o vibraciones molestas, que afecten a actividades o bienes personales. Teniendo dicha definición en cuenta, cualquier fuente que produzca un sonido o vibración en el ambiente, puede causar un efecto dañino en las personas, e incluso en los animales.
+Estas vibraciones y ruidos provocan efectos adversos en las personas, y animales. Y si se producen sonidos de gran intensidad podría causar daños fisiológicos y psicológicos.
 
-Cabe destacar, que son las propias características del sonido las que determinan si dicho sonido está provocando una contaminación acustica. Si ese sonido es un sonido de gran intensidad, puede causar efectos y daños fisiológicos, o incluso psicológicos.
+Por ello se debería regular los dbs, ya que un sonido de alta frecuencia puede provocar molestia a una persona, y como consecuencia no puede concentrarse o descansar adecuadamente, entre otras.
 
-En este caso particular, se ha decidido realizar el estudio debido a las características propias del recinto, ya que se trata de un centro docente, que como se verá más adelante, tiene sus propios límites dentro de la normativa. En la conclusión, se indicaran algunas posibles soluciones para reducir la cantidad de ruido que se genera en el propio recinto.
+Un tema a destacar sería la contaminación acústica submarina ya que los barcos pesqueros y militares utilizan la misma frecuencia que las ballenas, por lo que sus relaciones sociales, orientación se ven afectados, entre otras.
+
+La vibración de los motores se considera contaminación acústica ya que propagan ruido qué puede provocar efectos adversos.
+
+Para realizar un estudio de la contaminación acústica primero se necesitan diagnósticos de situación, mapas sonoros, simulaciones, etc.
+
+Es difícil expresar cuáles son los niveles de ruido en un instante en un tiempo determinado, pero en tráfico ferroviario o aéreo, carretera, etc. Están bien definidos.
 
 ## Marco teórico -- Metodológico
 
@@ -15,9 +22,6 @@ En el estudio del ruido generado se estudia el rango de frecuencias entre 8-8000
 En la realización de las mediciones hay que tomar ciertas precauciones:
 Antes y después de cada medición realizar una verificación acústica de la cadena de medición, que garantice que la desviación no es superiora 0,3 dB
 El sonómetro debe llevar una pantalla de viento 
-
-![Sin pantalla](https://user-images.githubusercontent.com/91887316/135848305-89ad42b0-18dc-4256-943d-7b953459d41f.jpg) ![Con pantalla](https://user-images.githubusercontent.com/91887316/135848325-45ab4e11-b5ea-4cfa-b048-9beba966dcec.jpg)
-
 
 
 ## Apartado legislativo
