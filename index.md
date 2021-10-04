@@ -8,6 +8,8 @@ Cabe destacar, que son las propias características del sonido las que determina
 
 En este caso particular, se ha decidido realizar el estudio debido a las características propias del recinto, ya que se trata de un centro docente, que como se verá más adelante, tiene sus propios límites dentro de la normativa. En la conclusión, se indicaran algunas posibles soluciones para reducir la cantidad de ruido que se genera en el propio recinto.
 
+## Marco teórico -- Metodológico
+
 
 ## Apartado legislativo
 
