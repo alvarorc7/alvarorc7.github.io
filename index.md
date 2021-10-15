@@ -30,7 +30,8 @@ En la realización de las mediciones hay que tomar ciertas precauciones:
 El número de mediciones deben de ser 3 mediciones de 5 minutos y entre cada medición dejar 5 minutos 
 A la hora de evaluar los niveles de ruido hay que tener en cuenta:
 - Ruido de tráfico rodado: Hay que llevar un conteo del número de vehículos que  pasan, un conteo para vehículos ligeros y otro para los vehículos pesados
-- Ruido de aviones: El índice de valoración que se tiene en cuenta para el sonido de los aviones es el nivel equivalente(LAeq)             LAeq = 10log(1/n Σn 10)
+- Ruido de aviones: El índice de valoración que se tiene en cuenta para el sonido de los aviones es el nivel equivalente(LAeq)           
+LAeq = 10log(1/n Σn 10)
 - Ruido industrial: Se estudia a partir del valor LAeq, midiendo 15 minutos con resolución de 1 segundo
 
 
