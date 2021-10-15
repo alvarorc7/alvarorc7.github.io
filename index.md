@@ -25,7 +25,8 @@ En la realización de las mediciones hay que tomar ciertas precauciones:
 - Durante la medición se debe tomar nota de los eventos sonoros más importantes y de las condiciones meteorológicas 
 - La velocidad del viento debe ser siempre inferior a 5 m/s
 
-https://img2.freepng.es/20180705/whs/kisspng-measuring-instrument-sound-meters-decibel-ambient-5b3e03c83d8ff0.3821163615307908562522.jpg
+![kisspng-measuring-instrument-sound-meters-decibel-ambient-5b3e03c83d8ff0 3821163615307908562522](https://user-images.githubusercontent.com/91887316/137458509-01127a3b-e70d-4af1-bd68-83c34ef70ff2.jpg)
+
 
 - Las mediciones deben de hacerse a 1,5 metros de altura del suelo
 El número de mediciones deben de ser 3 mediciones de 5 minutos y entre cada medición dejar 5 minutos 
