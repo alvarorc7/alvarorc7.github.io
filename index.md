@@ -25,13 +25,13 @@ En la realización de las mediciones hay que tomar ciertas precauciones:
 - Durante la medición se debe tomar nota de los eventos sonoros más importantes y de las condiciones meteorológicas 
 - La velocidad del viento debe ser siempre inferior a 5 m/s
 
-![abh-300x300](https://user-images.githubusercontent.com/91888074/137461043-c1f0585b-7eda-413d-875d-999c6e8ba570.png)
 
 - Las mediciones deben de hacerse a 1,5 metros de altura del suelo
 El número de mediciones deben de ser 3 mediciones de 5 minutos y entre cada medición dejar 5 minutos 
 A la hora de evaluar los niveles de ruido hay que tener en cuenta:
 - Ruido de tráfico rodado: Hay que llevar un conteo del número de vehículos que  pasan, un conteo para vehículos ligeros y otro para los vehículos pesados
-- Ruido de aviones: El índice de valoración que se tiene en cuenta para el sonido de los aviones es el nivel equivalente(LAeq)     LAeq = 10log(1/n Σn 10)
+- Ruido de aviones: El índice de valoración que se tiene en cuenta para el sonido de los aviones es el nivel equivalente(LAeq)           
+LAeq = 10log(1/n Σn 10)
 - Ruido industrial: Se estudia a partir del valor LAeq, midiendo 15 minutos con resolución de 1 segundo
 
 
@@ -71,11 +71,11 @@ Existen tres periodos temporales de evaluación diarios:
 
 ![indices ruido bien](https://user-images.githubusercontent.com/91885951/135846554-5199b472-f17b-45cc-89b3-d0e652bec658.PNG)
 
+## Datos y visualización
 
-## Conclusión general
+## Conclusón general
 
-Este trabajo se han podido ver datos sobre la contaminación acustica, se recopilan datos legislativos y teóricos en los que se puede ver, que la contaminación acústica es más grave de lo que se puede apreciar, ya que puede afectar a la salud psicológica y física de las personas.
-En este trabajo nos habría gustado utilizar un mapa de calor sobre la contaminación acústica ya que, podemos entender de forma más visual sus efectos en el ambiente, pero por falta de imaginación y de tiempo no lo hemos incluido.
+Este trabajo 
 
 
 
