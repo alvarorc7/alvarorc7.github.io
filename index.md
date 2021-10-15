@@ -73,7 +73,7 @@ Existen tres periodos temporales de evaluación diarios:
 
 ## Conclusón general
 
-Este trabajo es gei
+Este trabajo 
 
 
 
