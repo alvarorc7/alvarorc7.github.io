@@ -25,8 +25,7 @@ En la realización de las mediciones hay que tomar ciertas precauciones:
 - Durante la medición se debe tomar nota de los eventos sonoros más importantes y de las condiciones meteorológicas 
 - La velocidad del viento debe ser siempre inferior a 5 m/s
 
-
-![sonometro-digital-medidor-de-ruido-D_NQ_NP_601485-MPE29833629064_042019-F](https://user-images.githubusercontent.com/91888074/137460663-14432a8d-637b-4b83-9b69-df75a3cba1be.png)
+![abh-300x300](https://user-images.githubusercontent.com/91888074/137461043-c1f0585b-7eda-413d-875d-999c6e8ba570.png)
 
 - Las mediciones deben de hacerse a 1,5 metros de altura del suelo
 El número de mediciones deben de ser 3 mediciones de 5 minutos y entre cada medición dejar 5 minutos 
