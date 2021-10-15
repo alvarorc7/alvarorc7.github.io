@@ -1,4 +1,4 @@
-# Estudio de la contaminación ambiental
+# Estudio de la contaminación  acustica ambiental
 
 ## Introducción
 En este trabajo hablaremos y expondremos datos sobre la contaminación acústica, para empezar, la contaminación acústica se entiende como la presencia de ruido y vibraciones que impliquen molestia o daño para las personas.
@@ -30,8 +30,7 @@ En la realización de las mediciones hay que tomar ciertas precauciones:
 El número de mediciones deben de ser 3 mediciones de 5 minutos y entre cada medición dejar 5 minutos 
 A la hora de evaluar los niveles de ruido hay que tener en cuenta:
 - Ruido de tráfico rodado: Hay que llevar un conteo del número de vehículos que  pasan, un conteo para vehículos ligeros y otro para los vehículos pesados
-- Ruido de aviones: El índice de valoración que se tiene en cuenta para el sonido de los aviones es el nivel equivalente(LAeq)           
-LAeq = 10log(1/n Σn 10)
+- Ruido de aviones: El índice de valoración que se tiene en cuenta para el sonido de los aviones es el nivel equivalente(LAeq)     LAeq = 10log(1/n Σn 10)
 - Ruido industrial: Se estudia a partir del valor LAeq, midiendo 15 minutos con resolución de 1 segundo
 
 
@@ -71,7 +70,15 @@ Existen tres periodos temporales de evaluación diarios:
 
 ![indices ruido bien](https://user-images.githubusercontent.com/91885951/135846554-5199b472-f17b-45cc-89b3-d0e652bec658.PNG)
 
-## Datos y visualización
+
+## Visualización de datos
+En la siguiente gráfica se puede ver el nivel de ruido representado en mediante barras, y en la segunda imagen, se pueden ver todos los datos que se tomaron durante las mediciones. 
+
+![20211015091906_hd](https://user-images.githubusercontent.com/77575555/137464185-91565e48-34de-4a4c-a824-0cc45522b039.png)
+
+![image](https://user-images.githubusercontent.com/77575555/137464422-2a69fdf8-564b-43b3-8d8a-90dc39ea1f8c.png)
+
+
 
 ## Conclusón general
 
