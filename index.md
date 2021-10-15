@@ -20,8 +20,19 @@ Es difícil expresar cuáles son los niveles de ruido en un instante en un tiemp
 La metodología sigue una normativa UNE - EN ISO 1996-1:2005, que se encarga de la descripción, medición y evaluación del ruido ambiental.
 En el estudio del ruido generado se estudia el rango de frecuencias entre 8-8000 Hz.
 En la realización de las mediciones hay que tomar ciertas precauciones:
-Antes y después de cada medición realizar una verificación acústica de la cadena de medición, que garantice que la desviación no es superiora 0,3 dB
-El sonómetro debe llevar una pantalla de viento 
+- Antes y después de cada medición realizar una verificación acústica de la cadena de medición, que garantice que la desviación no es superiora 0,3 dB
+- El sonómetro debe llevar una pantalla de viento
+- Durante la medición se debe tomar nota de los eventos sonoros más importantes y de las condiciones meteorológicas 
+- La velocidad del viento debe ser siempre inferior a 5 m/s
+
+https://img2.freepng.es/20180705/whs/kisspng-measuring-instrument-sound-meters-decibel-ambient-5b3e03c83d8ff0.3821163615307908562522.jpg
+
+- Las mediciones deben de hacerse a 1,5 metros de altura del suelo
+El número de mediciones deben de ser 3 mediciones de 5 minutos y entre cada medición dejar 5 minutos 
+A la hora de evaluar los niveles de ruido hay que tener en cuenta:
+- Ruido de tráfico rodado: Hay que llevar un conteo del número de vehículos que  pasan, un conteo para vehículos ligeros y otro para los vehículos pesados
+- Ruido de aviones: El índice de valoración que se tiene en cuenta para el sonido de los aviones es el nivel equivalente(LAeq)     LAeq = 10log(1/n Σn 10)
+- Ruido industrial: Se estudia a partir del valor LAeq, midiendo 15 minutos con resolución de 1 segundo
 
 
 ## Apartado legislativo
