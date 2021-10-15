@@ -72,6 +72,12 @@ Existen tres periodos temporales de evaluación diarios:
 ![indices ruido bien](https://user-images.githubusercontent.com/91885951/135846554-5199b472-f17b-45cc-89b3-d0e652bec658.PNG)
 
 ## Datos y visualización
+![image](https://user-images.githubusercontent.com/77575555/137465759-b2a9c353-9570-4d73-9373-b862ee9d8111.png)
+
+
+![20211015091906_hd](https://user-images.githubusercontent.com/77575555/137465865-1845f436-742a-4407-bf9b-f1905448ee89.png)
+
+
 
 ## Conclusón general
 
