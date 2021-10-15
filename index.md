@@ -1,7 +1,5 @@
 # Estudio de la contaminación ambiental
 
-Baky hamster kabron
-
 ## Introducción
 En este trabajo hablaremos y expondremos datos sobre la contaminación acústica, para empezar, la contaminación acústica se entiende como la presencia de ruido y vibraciones que impliquen molestia o daño para las personas.
 
