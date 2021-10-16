@@ -1,4 +1,4 @@
-# Estudio de la contaminación ambiental
+# Estudio de la contaminación acústica ambiental
 
 ## Introducción
 En este trabajo hablaremos y expondremos datos sobre la contaminación acústica, para empezar, la contaminación acústica se entiende como la presencia de ruido y vibraciones que impliquen molestia o daño para las personas.
