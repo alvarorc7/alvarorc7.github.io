@@ -38,6 +38,9 @@ LAeq = 10log(1/n Σn 10)
 ### Normativa comunitaria:
 
 La directiva 2002/49 CE del Parlamento Europeo y del consejo sobre evaluación y gestión del ruido ambiental (DOCE 18/07/2002), está destinado a evitar, prevenir o reducir los efectos de la exposición al ruido, se aplican las siguientes medidas:
+
+![imagen esa](https://user-images.githubusercontent.com/91885951/137726294-f31b909c-37ee-4058-85f1-e0d8f51b3181.png)
+
 - Se determina el ruido y se hace un mapa de ruido según los métodos de evaluación más comunes.
 - Se informa a la población sobre el ruido ambiental y los efectos que tiene.
 - Se tienen planes de acción para prevenir y reducir el ruido ambiental y sus efectos.
