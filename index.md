@@ -1,14 +1,16 @@
 # Estudio de la contaminación acústica ambiental
 
+- **Álvaro Rodríguez**
+- **David Cayón**
+- **Neil Gómez**
+- **Adrian Sánchez**
+
 ## Introducción
-En este trabajo hablaremos y expondremos datos sobre la contaminación acústica, para empezar, la contaminación acústica se entiende como la presencia de ruido y vibraciones que impliquen molestia o daño para las personas.
+En este trabajo hablaremos y expondremos datos sobre la contaminación acústica, para empezar, la contaminación acústica se entiende como la presencia de ruido y vibraciones que impliquen molestia o daño para las personas. En este caso, el estudio se ha realizado en un ámbito escolar, como parte de una práctica de la asignatura de Megafonía.
 
 Estas vibraciones y ruidos provocan efectos adversos en las personas, y animales. Y si se producen sonidos de gran intensidad podría causar daños fisiológicos y psicológicos.
 
 Por ello se debería regular los dbs, ya que un sonido de alta frecuencia puede provocar molestia a una persona, y como consecuencia no puede concentrarse o descansar adecuadamente, entre otras.
-
-Un tema a destacar sería la contaminación acústica submarina ya que los barcos pesqueros y militares utilizan la misma frecuencia que las ballenas, por lo que sus relaciones sociales, orientación se ven afectados, entre otras.
-
 La vibración de los motores se considera contaminación acústica ya que propagan ruido qué puede provocar efectos adversos.
 
 Para realizar un estudio de la contaminación acústica primero se necesitan diagnósticos de situación, mapas sonoros, simulaciones, etc.
@@ -38,9 +40,6 @@ LAeq = 10log(1/n Σn 10)
 ### Normativa comunitaria:
 
 La directiva 2002/49 CE del Parlamento Europeo y del consejo sobre evaluación y gestión del ruido ambiental (DOCE 18/07/2002), está destinado a evitar, prevenir o reducir los efectos de la exposición al ruido, se aplican las siguientes medidas:
-
-![imagen esa](https://user-images.githubusercontent.com/91885951/137726294-f31b909c-37ee-4058-85f1-e0d8f51b3181.png)
-
 - Se determina el ruido y se hace un mapa de ruido según los métodos de evaluación más comunes.
 - Se informa a la población sobre el ruido ambiental y los efectos que tiene.
 - Se tienen planes de acción para prevenir y reducir el ruido ambiental y sus efectos.
@@ -78,7 +77,11 @@ Existen tres periodos temporales de evaluación diarios:
 
 ![20211015091906_hd](https://user-images.githubusercontent.com/77575555/137465865-1845f436-742a-4407-bf9b-f1905448ee89.png)
 
+## Efectos del ruido sobre la salud
 
+El ruido tiene una gran cantidad de efectos sobre la salud de las personas que estan expuestas a ello. Dichas consecuencias pueden ser desde físicas o fisiológicas, hasta psicológicas. 
+
+La consecuencia más visible es la pérdida de audición, prolongada en el tiempo debido a exposición al ruido temporal, pero de forma regular, o inmediata en el caso de que se traten de ruidos impulsivos.
 
 ## Conclusón general
 
