@@ -24,8 +24,6 @@ En la realización de las mediciones hay que tomar ciertas precauciones:
 - El sonómetro debe llevar una pantalla de viento
 - Durante la medición se debe tomar nota de los eventos sonoros más importantes y de las condiciones meteorológicas 
 - La velocidad del viento debe ser siempre inferior a 5 m/s
-
-
 - Las mediciones deben de hacerse a 1,5 metros de altura del suelo
 El número de mediciones deben de ser 3 mediciones de 5 minutos y entre cada medición dejar 5 minutos 
 A la hora de evaluar los niveles de ruido hay que tener en cuenta:
