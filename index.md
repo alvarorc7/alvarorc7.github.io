@@ -10,7 +10,7 @@ En este trabajo se exponen datos sobre la contaminación acústica, para empezar
 
 Estas vibraciones y ruidos provocan efectos adversos en las personas, y animales. Y si se producen sonidos de gran intensidad podría causar daños fisiológicos y psicológicos.
 
-Por ello se debería regular los dbs, ya que un sonido de alta frecuencia puede provocar molestia a una persona, y como consecuencia no puede concentrarse o descansar adecuadamente, entre otras.
+Por ello se debería regular los dBs, ya que un sonido de alta frecuencia puede provocar molestia a una persona, y como consecuencia no puede concentrarse o descansar adecuadamente, entre otras.
 
 Para realizar un estudio de la contaminación acústica primero se necesitan diagnósticos de situación, mapas sonoros, simulaciones, etc.
 
@@ -82,13 +82,25 @@ Existen tres periodos temporales de evaluación diarios:
 
 El ruido tiene una gran cantidad de efectos sobre la salud de las personas que estan expuestas a ello. Dichas consecuencias pueden ser desde físicas o fisiológicas, hasta psicológicas. 
 
-La consecuencia más visible es la pérdida de audición, prolongada en el tiempo debido a exposición al ruido temporal, pero de forma regular, o inmediata en el caso de que se traten de ruidos impulsivos.
+Las consecuencias más visible es la pérdida de audición, prolongada en el tiempo debido a exposición al ruido temporal, pero de forma regular, o inmediata en el caso de que se traten de ruidos impulsivo, y la dificultad para la comunicación oral.
+
+Una lista de dichos efectos es la siguiente: 
+
+- Cefalea.
+- Disminución de la capacidad auditiva.
+- Perturbación del sueño.
+- Estrés.
+- Fatiga, neurosis o depresión.
+- Zumbidos y tinnitus, de forma continua o intermitente. 
+- Reducción del rendimiento.
+- Alteraciones del sistema circulatorio y digestivo.
 
 ## Conclusón general
 
-Este trabajo se ve la contaminación acústica y se recopilan datos legislativos y teóricos, y como afecta a la salud física y psicológica de las personas.
-En este trabajo nos habría gustado implementar un mapa de calor de la contaminación acústica, ya que se entiende de forma más visual lo que ocurre en el ambiente, pero por falta de imaginación y de tiempo no lo hemos incluído.
+En este trabajo, se ha realizado un estudio de la contaminación ambiental producida en un ambiente escolar. 
 
+Se ha podido observar como en función del lugar y de la presencia de alumnos, la cantidad de ruido que se genera es mayor o menor. Se han tenido en cuenta las diferentes normativas como se refleja en el marco legislativo para determinar si las medidas tomadas eran correctas, y si estaban dentro de los límites establecidos para, en este caso en particular, el uso como centro docente.
 
+Las normativas sobre contaminación acústica son muy estrictas, ya que como se ha visto en el apartado de Efectos del rudio sobre la salud, pueden tener una gran cantidad de efectos a nivel fisiológico, o incluso psicológico, llegan a poder ser daños irreversibles. 
 
 
