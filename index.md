@@ -46,6 +46,8 @@ La directiva 2002/49 CE del Parlamento Europeo y del consejo sobre evaluación y
 - Se fijan medidas comunitarias de reducción de ruidos emitidos.
 - Se recopilan los mapas de ruido y los planes de acción.
 
+![proyecto megafonia](https://user-images.githubusercontent.com/91885951/138407052-fb9a8606-efbf-4f5b-9c95-876bb07038f9.png)
+
 ### Recomendación de la comisión de 6 de agosto de 2003:
 
 Esta recomendación es relativa a las orientaciones sobre los métodos de cálculo para el ruido industrial, se recomiendan los siguientes:
