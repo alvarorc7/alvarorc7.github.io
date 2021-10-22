@@ -101,6 +101,6 @@ En este trabajo, se ha realizado un estudio de la contaminación ambiental produ
 
 Se ha podido observar como en función del lugar y de la presencia de alumnos, la cantidad de ruido que se genera es mayor o menor. Se han tenido en cuenta las diferentes normativas como se refleja en el marco legislativo para determinar si las medidas tomadas eran correctas, y si estaban dentro de los límites establecidos para, en este caso en particular, el uso como centro docente.
 
-Las normativas sobre contaminación acústica son muy estrictas, ya que como se ha visto en el apartado de Efectos del rudio sobre la salud, pueden tener una gran cantidad de efectos a nivel fisiológico, o incluso psicológico, llegan a poder ser daños irreversibles. 
+Las normativas sobre contaminación acústica son muy estrictas, ya que como se ha visto en el apartado de Efectos del rudio sobre la salud, pueden tener una gran cantidad de efectos a nivel fisiológico, o incluso psicológico, que pueden llegan a ser daños irreversibles. 
 
 
