@@ -6,12 +6,11 @@
 - **Adrian Sánchez**
 
 ## Introducción
-En este trabajo hablaremos y expondremos datos sobre la contaminación acústica, para empezar, la contaminación acústica se entiende como la presencia de ruido y vibraciones que impliquen molestia o daño para las personas. En este caso, el estudio se ha realizado en un ámbito escolar, como parte de una práctica de la asignatura de Megafonía.
+En este trabajo se exponen datos sobre la contaminación acústica, para empezar, la contaminación acústica se entiende como la presencia de ruido y vibraciones que impliquen molestia o daño para las personas. En este caso, el estudio se ha realizado en un ámbito escolar, como parte de una práctica de la asignatura de Megafonía.
 
 Estas vibraciones y ruidos provocan efectos adversos en las personas, y animales. Y si se producen sonidos de gran intensidad podría causar daños fisiológicos y psicológicos.
 
 Por ello se debería regular los dbs, ya que un sonido de alta frecuencia puede provocar molestia a una persona, y como consecuencia no puede concentrarse o descansar adecuadamente, entre otras.
-La vibración de los motores se considera contaminación acústica ya que propagan ruido qué puede provocar efectos adversos.
 
 Para realizar un estudio de la contaminación acústica primero se necesitan diagnósticos de situación, mapas sonoros, simulaciones, etc.
 
