@@ -82,7 +82,7 @@ Existen tres periodos temporales de evaluación diarios:
 
 El ruido tiene una gran cantidad de efectos sobre la salud de las personas que estan expuestas a ello. Dichas consecuencias pueden ser desde físicas o fisiológicas, hasta psicológicas. 
 
-Las consecuencias más visible es la pérdida de audición, prolongada en el tiempo debido a exposición al ruido temporal, pero de forma regular, o inmediata en el caso de que se traten de ruidos impulsivo, y la dificultad para la comunicación oral.
+Las consecuencias más visibles es la pérdida de audición, prolongada en el tiempo debido a exposición al ruido temporal, pero de forma regular, o inmediata en el caso de que se traten de ruidos impulsivo, y la dificultad para la comunicación oral.
 
 Una lista de dichos efectos es la siguiente: 
 
